@@ -15,15 +15,15 @@ alcid=13 watchdog=0 brcmfx-delay=300
 To use DEBUG AirportBrcmFixup.kext add these boot-args: -brcmfxdbg -liludbgall
 
  System Configuration
-•	CPU: Intel Core i7-8650U
-•	iGPU: Intel UHD Graphics 620
-•	RAM: 32GB DDR4 2400Mhz
-•	SSD: WD Blue SN5000 2TB
-•	WiFi: BCM94360NG
-•	Display: 1920*1080 FullHD IPS
-•	Sound Card: Realtek ALC256
-•	LAN: Intel I219-LM
-•	Touchpad: Alps touchpad
+CPU: Intel Core i7-8650U
+iGPU: Intel UHD Graphics 620
+RAM: 32GB DDR4 2400Mhz
+SSD: WD Blue SN5000 2TB
+WiFi: BCM94360NG
+Display: 1920*1080 FullHD IPS
+Sound Card: Realtek ALC256
+LAN: Intel I219-LM
+Touchpad: Alps touchpad
 
 
 BCM94360NG NSS:1 fix (AirportBrcmFixup.kext v. 2.1.9 mod)
