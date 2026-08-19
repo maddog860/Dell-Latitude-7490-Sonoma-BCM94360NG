@@ -53,20 +53,23 @@ issue with falling asleep. Previously it was recommended to disable USB PowerSha
 this specific issue, and it may not be needed anymore if your trackpad can use this kext.
 
 Confirmed Working:
-USB ports (USBA and USBC) 
-HDMI 
-Sound 
-Brightness and Volume adjustment keys
-Sleep
-Airplay (extensively tested) 
-Trackpoint AKA “Pointing Stick” 
-Filevault 
-Ethernet 
-Low Power Mode 
-NSS:2 for BCM94360NG 
+USB ports (USBA and USBC)
+HDMI
+Sound
+Brightness and Volume adjust keys function properly Sleep works
+Airplay (extensively tested)
+Trackpoint AKA “Pointing Stick”
+Filevault
+Ethernet
+Low Power Mode
+USB PowerShare (Option in bios may be turned on without affecting sleep) Graphics Acceleration
+Internal Microphone
+Internal Webcam
+MicroSD Card Reader
+NSS:2 for BCM94360NG
 
 Have Not Tested:
-Airdrop, Messages compatibility.
+Airdrop, Messages compatibility, Smart Card Reader, Fingerprint sensor
 
 Clear unknown BIOS password: Just enter the System Number displayed on BIOS unlock screen into this website:
 https://bios-pw.org/.
