@@ -5,9 +5,8 @@ Dell Latitude 7490 OpenCore Configuration  Best Experienced With: Mac OS Sonom
 First and foremost, this project wouldn’t be here if it wasn’t for this github project:
 https://github.com/CloverLeafBG/Dell-Latitude-7490-OC-Hackintosh
 This project builds on the previous author’s work, and has been adapted to work with Mac OS Sonoma. 
-AI helped quite a bit as well, figured I would mention it.
-
-
+AI helped quite a bit as well, figured I would mention it. 
+(This project includes content generated with AI tools)
 
 
 The following boot arguments are all that is needed for me, your experience may vary: 
