@@ -26,7 +26,7 @@ LAN: Intel I219-LM
 Touchpad: Alps touchpad
 
 
-BCM94360NG NSS:1 fix (AirportBrcmFixup.kext v. 2.1.9 mod)
+BCM94360NG NSS:2 fix (AirportBrcmFixup.kext v. 2.1.9 mod)
 This is probably the most meaningful contribution. The BCM94360NG problem was that on a cold macOS boot, 
 the Broadcom driver applied a single-transmit-chain constraint, leaving the card at NSS:1 instead of NSS:2.
 The fix was found by comparing the good NSS:2 state with the bad NSS:1 state (good state initiated by booting 
